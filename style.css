@@ -1,0 +1,61 @@
+.header{
+	background-color: skyblue;
+	min-height: 80px;
+	border: 4px solid;
+	text-align: center;
+	font-weight: bold;
+}
+.wrapper{
+     overflow: hidden;
+
+}
+.contact{
+	background-color: #0ef820e3;
+	min-height:150px;
+	width: 57.36%;
+	float: left;
+    border: 10px solid;
+    text-align: center;
+	font-weight: bold;
+}
+.blog{
+	background-color: yellow;
+	min-height:150px;
+	width: 40%;
+	float: right;
+	border: 10px solid;
+	text-align: center;
+	font-weight: bold;
+}
+.container{
+    
+}
+.single{
+	min-height: 200px;
+	width: 24.33%;
+	float: left;
+	border: 5px solid;
+	text-align: center;
+	font-weight: bold;
+}
+.pink{
+	background-color: pink;
+
+}
+.orange{
+	background-color: orange;
+}
+.hotpink{
+	background-color: hotpink;
+}
+.yellow{
+	background-color: #ffecb3;
+}
+.footer{
+	background-color: purple;
+	min-height: 80px;
+	clear:both;
+	border: 4px solid;
+	text-align: center;
+	font-weight: bold;
+}
